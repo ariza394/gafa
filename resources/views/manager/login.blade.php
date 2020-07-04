@@ -1,0 +1,9 @@
+@extends('layouts.app')
+<script>
+    if(localStorage.hasOwnProperty('token')){
+        window.location.replace('/api/manager');
+    }
+</script>
+@section('content')
+    <login-manager></login-manager>
+@endsection

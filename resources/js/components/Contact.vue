@@ -4,7 +4,7 @@
             <div style="margin: 0;" class="black-bg row justify-content-center align-items-center">
                 <div class=" text-center">
                     <h1 class="text-big">Contact US</h1>
-                    <h2 style="color:white;">Leave us a messagge, we will glad to answer you as soon as possible</h2>
+                    <h2 style="color:white;">Leave us a message, we will glad to answer you as soon as possible</h2>
                 </div>
             </div>
         </div>
